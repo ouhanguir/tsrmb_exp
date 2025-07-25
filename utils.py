@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-utils_minimal.py
+utils.py
 
 Minimal utility functions for two-stage experiments.
 Contains only the functions actually used in two_stage_experiments.py:
