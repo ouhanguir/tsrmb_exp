@@ -46,7 +46,7 @@ Similar to `two_stage_experiments.py` but designed for experiments involving mor
 ## Data Processing
 
 ### Input Data
-- **Source**: Taxi trajectory data from Shenzhen (2009)
+- **Source**: Taxi trajectory data from Shenzhen (2009). The data is stored in [Baidu Netdesk](https://pan.baidu.com/s/1FlNO1CfXiyi15WLuXn_ucA) (code: w2uu) 
 - **Format**: CSV files with columns: taxi_id, date_time, longitude, latitude, speed, direction, occupied, other
 - **Location**: `./work/shenzhen/all/TRK200909*.txt`
 
