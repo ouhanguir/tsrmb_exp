@@ -48,7 +48,7 @@ Similar to `two_stage_experiments.py` but designed for experiments involving mor
 ### Input Data
 - **Source**: Taxi trajectory data from Shenzhen (2009). The data is stored in [Baidu Netdesk](https://pan.baidu.com/s/1FlNO1CfXiyi15WLuXn_ucA) (code: w2uu) 
 - **Format**: CSV files with columns: taxi_id, date_time, longitude, latitude, speed, direction, occupied, other
-- **Location**: `./taxi_data/sz_taxi_data/TRK200909{day}.txt`. We use the 3rd, 10th and 17th day of the data (day in (03, 10, 17).
+- **Location**: `./taxi_data/sz_taxi_data/TRK200909{day}.txt`. We use the 3rd, 10th and 17th day of the data (day in [03, 10, 17]).
 
 ### Data Cleaning Steps
 1. **Type Conversion**: Convert data types and handle malformed entries
